@@ -5,14 +5,6 @@ This repository contains implementations of diffusion models for studying multip
 ![Workflow](./readme/Diffusion_process.png)
 *Diagram depicting the diffusion process and the integration of a geometry channel to guide fluid configurations within predefined geometric constraints.*
 
-<p align="center">
-  <img src="./readme/denoising_input1.png" alt="Input Image" width="45%" />
-  <img src="https://github.com/jh-chung1/Diffusion4MultiphaseFluids/blob/master/readme/denoising1.gif" alt="Denoising Process" width="45%" />
-</p>
-*Left: Input Image, Right: GIF showing the denoising process and the integration of a geometry channel to guide fluid configurations within predefined geometric constraints.*
-
-
-
 ## Requirements
 
 To set up the environment and install the necessary packages, please follow the instructions below.
