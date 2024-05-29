@@ -1,6 +1,6 @@
 # Diffusion Models for Multiphase Fluids in Fractures
 
-This repository contains implementations of diffusion models for studying multiphase fluids in fractures using deep learning. The main components of the project include training and sampling scripts.
+This repository contains implementations of diffusion models for studying multiphase fluids in fractures using deep learning. The main components of the project include training and sampling scripts. The code has been modified from the original implementation by [lucidrains](https://github.com/lucidrains/denoising-diffusion-pytorch).
 
 ![Workflow](./readme/Diffusion_process.png)
 *Diagram depicting the diffusion process and the integration of a geometry channel to guide fluid configurations within predefined geometric constraints.*
@@ -97,6 +97,7 @@ If you use this work or code in your research, please consider citing our [paper
     year={2023}
     }
 
+The denoising diffusion probab
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./readme/MIT%20License.md) file for details.
