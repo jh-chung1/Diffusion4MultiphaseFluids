@@ -97,7 +97,6 @@ If you use this work or code in your research, please consider citing our [paper
     year={2023}
     }
 
-The denoising diffusion probab
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./readme/MIT%20License.md) file for details.
